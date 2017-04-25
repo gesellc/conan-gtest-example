@@ -1,4 +1,4 @@
-# Conan GTest Example 
+# Conan GTest Example
 
 [![Build Status](https://travis-ci.org/lasote/conan-gtest-example.svg?branch=master)](https://travis-ci.org/lasote/conan-gtest-example) [![Build status](https://ci.appveyor.com/api/projects/status/kvx4nmlrt98727mo?svg=true)](https://ci.appveyor.com/project/lasote/conan-gtest-example) [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 
